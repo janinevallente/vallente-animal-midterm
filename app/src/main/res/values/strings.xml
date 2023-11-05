@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Janine\'s Animal Names</string>
+    <string name="manage_block_animals">Manage Block Animals</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_description">Animal Description</string>
+    <string name="unblock">Unblock</string>
+    <string name="block_animal">Block Animal</string>
+</resources>
